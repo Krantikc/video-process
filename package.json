@@ -1,0 +1,14 @@
+{
+  "name": "video-processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kranti",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^0.9.0"
+  }
+}
